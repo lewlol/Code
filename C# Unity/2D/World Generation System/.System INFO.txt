@@ -1,0 +1,6 @@
+2D Random World Generation system based on TERRARIA and MINECRAFT
+
+World Generation generates the world with 3 areas and a mineshaft.
+tile scriptable object holds the tile type.
+to add more create inside of unity custom editor window and add data.
+enums describe tile type to work with mining script.
