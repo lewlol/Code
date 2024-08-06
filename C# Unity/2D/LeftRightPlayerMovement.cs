@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
 
-public class PlayerMovement : MonoBehaviour
+public class LeftRightPlayerMovement : MonoBehaviour
 {
     //movement shit
     public float moveSpeed = 5f;

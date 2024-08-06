@@ -1,0 +1,7 @@
+Top Down 2D Gun System
+
+Fires Projectiles towards the mouse position based on the stats of the gun
+
+gun.cs holds stats (Scriptable Object)
+shooting has logic for shooting
+bullet detects enemies through (ENEMY TAG)
